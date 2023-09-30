@@ -1,7 +1,7 @@
 # t470s-hackintosh
 Near perfect hackintosh EFI for the T470S, currently only tested on Ventura 13.6. :)
 
-BIG, BIG shoutout to MultimediaLucario - a rather large part of my EFI comes from his. Please checkout his page, as it contains an amazing initialization guide, and post install tips too (I especially reccomend undervolting). :)
+BIG, BIG shoutout to MultimediaLucario - a rather large part of my EFI comes from his. Please check out his page, as it contains an amazing initialization guide, and post install tips too. (I especially recommend undervolting!) :)
 https://github.com/MultimediaLucario/Lenovo-ThinkPad-T470
 
 Obviously I have made some modifications, not sure if these apply to the T470, but they sure do for the T470s:
