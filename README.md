@@ -1,3 +1,5 @@
+//EDIT: I unfortunately no longer own a T470s, so this repo will not be supported anymore.
+
 # t470s-hackintosh
 Near perfect hackintosh EFI for the Lenovo Thinkpad T470S, currently only tested on Ventura 13.6. :)
 
